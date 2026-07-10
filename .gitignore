@@ -1,0 +1,6 @@
+/storage/
+/vendor/
+.env
+/phpinfo.php
+/hash.php
+*.log
